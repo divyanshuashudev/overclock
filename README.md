@@ -20,4 +20,4 @@ A web application built with **Streamlit** and **Supabase** to manage student re
 1. **Clone the repository**
    ```bash
    git clone https://github.com/divyanshuashudev/overclock/
-   cd <your-repo-name>
+   cd <overclock>git
